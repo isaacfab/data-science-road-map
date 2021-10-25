@@ -41,3 +41,4 @@
 [MIT - Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 [Fast.AI](https://www.fast.ai/)
 [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+[Intro to Deep Learning - Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
