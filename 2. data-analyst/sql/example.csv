@@ -1,0 +1,20 @@
+job_id,job_title,min_salary,max_salary
+1,"Public Accountant",4200.0,9000.0
+2,"Accounting Manager",8200.0,16000.0
+3,"Administration Assistant",3000.0,6000.0
+4,President,20000.0,40000.0
+5,"Administration Vice President",15000.0,30000.0
+6,Accountant,4200.0,9000.0
+7,"Finance Manager",8200.0,16000.0
+8,"Human Resources Representative",4000.0,9000.0
+9,Programmer,4000.0,10000.0
+10,"Marketing Manager",9000.0,15000.0
+11,"Marketing Representative",4000.0,9000.0
+12,"Public Relations Representative",4500.0,10500.0
+13,"Purchasing Clerk",2500.0,5500.0
+14,"Purchasing Manager",8000.0,15000.0
+15,"Sales Manager",10000.0,20000.0
+16,"Sales Representative",6000.0,12000.0
+17,"Shipping Clerk",2500.0,5500.0
+18,"Stock Clerk",2000.0,5000.0
+19,"Stock Manager",5500.0,8500.0
