@@ -42,3 +42,4 @@
 [Fast.AI](https://www.fast.ai/)
 [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 [Intro to Deep Learning - Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
+[Metaflow - data science project management](https://docs.metaflow.org/introduction/what-is-metaflow)

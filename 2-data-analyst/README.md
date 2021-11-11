@@ -28,3 +28,4 @@
 
 ## other
 [Example Docker Container DB](https://colinfay.me/clients-db/)
+[Story Telling With Data](https://www.storytellingwithdata.com/)

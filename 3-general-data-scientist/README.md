@@ -12,7 +12,10 @@
 [Mastering Shiny](https://mastering-shiny.org/index.html)
 
 ### books
-* [Learning Statistics with R](https://learningstatisticswithr.com/)
+[Hands-On Progamming with R](https://rstudio-education.github.io/hopr/)
+[R for Data Science](https://r4ds.had.co.nz/index.html)
+[R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
+[Learning Statistics with R](https://learningstatisticswithr.com/)
 [Open Intro](https://www.openintro.org/)
 [Online Statitics Education](https://onlinestatbook.com/2/)
 
@@ -20,3 +23,4 @@
 [Stanford - Probability for Computer Scientists](http://web.stanford.edu/class/cs109/)
 [Harvard Stats 110 Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 [Data Driven CV](http://nickstrayer.me/datadrivencv/)
+[Bash Manual](https://www.gnu.org/software/bash/manual/)
