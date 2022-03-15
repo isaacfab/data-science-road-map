@@ -44,3 +44,4 @@
 * [Intro to Deep Learning - Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Metaflow - data science project management](https://docs.metaflow.org/introduction/what-is-metaflow)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+* [Gitlab Data Engineering Handbook](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/)
