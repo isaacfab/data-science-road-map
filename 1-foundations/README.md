@@ -15,3 +15,4 @@
 [Papers with Code - Datasets](https://paperswithcode.com/datasets)
 [Hugging Face Datasets](https://github.com/huggingface/datasets)
 [Founders Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
+[FlowCV Free Resume Builder](https://flowcv.io/)
