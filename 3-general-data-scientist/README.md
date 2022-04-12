@@ -6,11 +6,12 @@ Intermediate
 Advanced
 
 # Other good Resources 
-## Statistics
+## Probability and Statistics
 [Seeing Theory](https://seeing-theory.brown.edu/)
 [Stat Quest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw?app=desktop)
 [Bayesian Data Analysis - Book](https://users.aalto.fi/~ave/BDA3.pdf)
 [Bayesian Data Analysis - Course](https://avehtari.github.io/BDA_course_Aalto/)
+[Probability for Data Science](https://probability4datascience.com/)
 
 ## Time Series Modeling
 [Article on Concept Overview](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
