@@ -45,3 +45,4 @@
 * [Metaflow - data science project management](https://docs.metaflow.org/introduction/what-is-metaflow)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 * [Gitlab Data Engineering Handbook](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/)
+* [MLOps is a Mess](https://www.mihaileric.com/posts/mlops-is-a-mess/)
