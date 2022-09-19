@@ -10,9 +10,9 @@
 8. Other Resources
 
 ### Other Resources
-[ArXiv Datasets](https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104)
-[Designing Data-Intensive Applications](https://dataintensive.net/)
-[Papers with Code - Datasets](https://paperswithcode.com/datasets)
-[Hugging Face Datasets](https://github.com/huggingface/datasets)
-[Founders Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
-[FlowCV Free Resume Builder](https://flowcv.io/)
+* [ArXiv Datasets](https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104)
+* [Designing Data-Intensive Applications](https://dataintensive.net/)
+* [Papers with Code - Datasets](https://paperswithcode.com/datasets)
+* [Hugging Face Datasets](https://github.com/huggingface/datasets)
+* [Founders Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
+* [FlowCV Free Resume Builder](https://flowcv.io/)
