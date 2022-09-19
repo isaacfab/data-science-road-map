@@ -23,7 +23,6 @@ Advanced
 [Blogdown Official Site](https://bookdown.org/yihui/blogdown/)
 [EDA Example from Kaggle - R](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda)
 [ggplot2 and base R plot gallery](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
-[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [RMarkdown Offical Site](https://rmarkdown.rstudio.com/)
 
 ### books
@@ -41,6 +40,7 @@ Advanced
 [Bash Manual](https://www.gnu.org/software/bash/manual/)
 
 ### Web Developmnet
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [Bootstrap](https://getbootstrap.com/)
 [Hugo](https://gohugo.io/)
 [Mozilla Web Developloment Courses - Free](https://developer.mozilla.org/en-US/docs/Learn)

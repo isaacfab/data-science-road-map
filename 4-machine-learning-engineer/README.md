@@ -11,6 +11,7 @@
 ### math
 * [Matrix Calculus for Deep Learning](https://explained.ai/matrix-calculus/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Pen and Paper Machine Learning Problems](https://arxiv.org/abs/2206.13446)
 
 ### other resources
 * [Intro to Kalman Filter](https://resourcium.org/journey/introduction-kalman-filter)
