@@ -31,14 +31,14 @@ Data jobs come in three general flavors (but are often called different things i
 2. [Data Analyst](2-data-analyst)
 3. [General Data Scientist](3-general-data-scientist)
 4. [Machine Learning Engineer](4-machine-learning-engineer)
-5. [Combined Core Skills List](#combined)
-6. [Certification Checklist](#certs)
-7. [Portfolio Project Checklist](#project)
-8. [Next Steps](#next)
+5. [Combined Core Skills List](#combined-core-skills-list)
+6. [Certification Checklist](#certification-checklist)
+7. [Portfolio Project Checklist](#portfolio-project-checklist)
+8. [Next Steps](#next-steps)
 
 ---
 
-## Combined Core Skills List {#combined}
+## Combined Core Skills List
 This table is the set of skills that should be common to every data scientist. There are many things excluded that become important as individuals specialize. This list represents the absolute foundation.
 
 
@@ -224,4 +224,8 @@ This table is the set of skills that should be common to every data scientist. T
 |  	| Use deep learning APIs 	| Soft 	| OpenAI/AWS 	|
 |  	| Package an ML model as a microservice 	| Containers 	| Docker 	|
 
+## [Certification Checklist](#certification-checklist)
 
+## [Portfolio Project Checklist](#portfolio-project-checklist)
+
+## [Next Steps](#next-steps)
