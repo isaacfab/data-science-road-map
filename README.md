@@ -1,11 +1,11 @@
 <p align="center">
     <img src="road-map-viz/logos.png"
-        height="130">
+        height="200">
 </p>
 <p align="center">
-    <a href="" alt="Contributors">
+    <a href="https://github.com/isaacfab/data-science-road-map" alt="Contributors">
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
-    <a href="#backers" alt="Backers on Open Collective">
+    <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" alt="Backers on Open Collective">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=isaacfab00">
         <img src="https://img.shields.io/twitter/follow/isaacfab00?style=social&logo=twitter"
@@ -20,23 +20,27 @@ This repo is a companion site for the course [CORE: Data Science and Machine Lea
 
 ![image to enroll with a discount for 10 dollars]()
 
-The goal here is very ambitious; to be the only site you need on your learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. The goal of this road map is to get you started (or re-directed) on your journey the right way. Everything from original content to linked resources has been vetted through experience and practice. Start with foundations:
-
-## [Foundations](1-foundations)
+The goal here is very ambitious; to be the only site you need on your learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. The goal of this road map is to get you started (or re-directed) on your journey the right way. Everything from original content to linked resources has been vetted through experience and practice. 
 
 Data jobs come in three general flavors (but are often called different things in practice); Data Analyst, General Data Scientist, and Machine Learning Engineer. The skills, course, and resources are divided into these categories for ease of reference.
 
-## [Data Analyst](2-data-analyst)
 
-## [General Data Scientist](3-general-data-scientist)
+## Table of Contents
 
-## [Machine Learning Engineer](4-machine-learning-engineer)
-
-## Combined Core Skills List
-This table is the set of skills that should be common to every data scientist. There are many things excluded that become important as individuals specialize. This list represents the absolute foundation.
-
+1. [Foundations](1-foundations)
+2. [Data Analyst](2-data-analyst)
+3. [General Data Scientist](3-general-data-scientist)
+4. [Machine Learning Engineer](4-machine-learning-engineer)
+5. [Combined Core Skills List](#combined)
+6. [Certification Checklist](#certs)
+7. [Portfolio Project Checklist](#project)
+8. [Next Steps](#next)
 
 ---
+
+## Combined Core Skills List {#combined}
+This table is the set of skills that should be common to every data scientist. There are many things excluded that become important as individuals specialize. This list represents the absolute foundation.
+
 
 | Role 	| Skill 	| Type 	| Tool 	|
 |---	|---	|---	|---	|
