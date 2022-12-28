@@ -47,3 +47,4 @@
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 * [Gitlab Data Engineering Handbook](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/)
 * [MLOps is a Mess](https://www.mihaileric.com/posts/mlops-is-a-mess/)
+* [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)

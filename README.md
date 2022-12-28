@@ -16,9 +16,9 @@
 
 ### A prioritized list of **core skills**, **personal portfolio projects**, **reading material**, and **practice assignments** every new data scientist should have.
 
-This repo is a companion site for the course [CORE: Data Science and Machine Learning](). 
+This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](). 
 
-![image to enroll with a discount for 10 dollars]()
+[image to enroll with a discount]()
 
 The goal here is very ambitious; to be the only site you need on your learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. The goal of this road map is to get you started (or re-directed) on your journey the right way. Everything from original content to linked resources has been vetted through experience and practice. 
 
@@ -35,6 +35,7 @@ Data jobs come in three general flavors (but are often called different things i
 6. [Certification Checklist](#certification-checklist)
 7. [Portfolio Project Checklist](#portfolio-project-checklist)
 8. [Next Steps](#next-steps)
+9. [Latest News](#latest-news)
 
 ---
 
@@ -229,3 +230,5 @@ This table is the set of skills that should be common to every data scientist. T
 ## [Portfolio Project Checklist](#portfolio-project-checklist)
 
 ## [Next Steps](#next-steps)
+
+## [Latest News]()
