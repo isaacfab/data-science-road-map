@@ -1,5 +1,7 @@
 # Data Science Skills Road Map
 
+![](https://img.shields.io/badge/contributions-welcome-green) ![]((https://img.shields.io/badge/licence-MIT-green))
+
 ### A prioritized list of **core skills**, **personal portfolio projects**, **reading material**, and **practice assignments** every new data scientist should have.
 
 This repo is a companion site for the course [CORE: Data Science and Machine Learning](). 
