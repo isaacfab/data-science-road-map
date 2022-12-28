@@ -3,16 +3,13 @@
         height="130">
 </p>
 <p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+    <a href="" alt="Contributors">
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
     <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=isaacfab00">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+        <img src="https://img.shields.io/twitter/follow/isaacfab00?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-    <a href="https://www.linkedin.com/in/isaacfaber/">
-        <img src="https://img.shields.io/linkedin/follow/shields_io?style=social&logo=linkedin"
-            alt="follow on Linkedin"></a>
 </p>
 
 
