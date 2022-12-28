@@ -1,6 +1,6 @@
 # Data Science Skills Road Map
 
-![](https://img.shields.io/badge/contributions-welcome-green) ![]((https://img.shields.io/badge/licence-MIT-green))
+![](https://img.shields.io/badge/contributions-welcome-green) ![](https://img.shields.io/badge/test-test-green/endpoint?url=google.com)
 
 ### A prioritized list of **core skills**, **personal portfolio projects**, **reading material**, and **practice assignments** every new data scientist should have.
 
