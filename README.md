@@ -3,23 +3,21 @@
         height="200">
 </p>
 <p align="center">
-    <a href="https://github.com/isaacfab/data-science-road-map" alt="Contributors">
+    <a href="https://github.com/isaacfab/data-science-road-map" target="_blank" alt="Contributors">
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
-    <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" alt="Open Source">
+    <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" target="_blank" alt="Open Source">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=isaacfab00">
+    <a href="https://twitter.com/intent/follow?screen_name=isaacfab00" target="_blank">
         <img src="https://img.shields.io/twitter/follow/isaacfab00?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
 
-
-
-### A prioritized list of **core skills**, **personal portfolio projects**, **reading material**, and **practice assignments** every new data scientist should have.
+### A prioritized list of **core skills**, **reading material**, **personal portfolio projects** and **practice assignments** every new data scientist should have.
 
 This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
 
 <p align="center">
-    <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" alt="Course">
+    <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" target="_blank" alt="Course">
         <img src="https://img.shields.io/badge/enroll-here-blue" /></a>
     
 </p>
