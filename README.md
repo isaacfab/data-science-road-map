@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/isaacfab/data-science-road-map" alt="Contributors">
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
-    <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" alt="Backers on Open Collective">
+    <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" alt="Open Source">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=isaacfab00">
         <img src="https://img.shields.io/twitter/follow/isaacfab00?style=social&logo=twitter"
@@ -16,9 +16,13 @@
 
 ### A prioritized list of **core skills**, **personal portfolio projects**, **reading material**, and **practice assignments** every new data scientist should have.
 
-This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](). 
+This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
 
-[image to enroll with a discount]()
+<p align="center">
+    <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" alt="Course">
+        <img src="https://img.shields.io/badge/enroll-here-blue" /></a>
+    
+</p>
 
 The goal here is very ambitious; to be the only site you need on your learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. The goal of this road map is to get you started (or re-directed) on your journey the right way. Everything from original content to linked resources has been vetted through experience and practice. 
 
