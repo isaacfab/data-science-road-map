@@ -3,6 +3,7 @@ This job is to build smart products that automate tasks and deploy them. To do t
 
 ## Library Recommendations
 * MUST READ! - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* MUST READ! - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full)
 * Basic - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * ML Specific practical - [Hands On Machine Learning with scikitlearn, Keras, & Tensorflow](https://github.com/ageron/handson-ml3)
 * ML Specific practical - [Machine Learning with Pytorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
