@@ -2,6 +2,7 @@
 A general data scientist was the first type of data scientist. More a statistician than machine learning focus. They look at answering business-type questions with a scientific approach; what is better? how are we doing? What is the best decision? This person typically works on high impact low quantity analysis questions for senior leadership of an organization.
 
 ## Library Recommendations
+* MUST READ! [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 * [R for Data Science](https://r4ds.had.co.nz/index.html)
 * [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)

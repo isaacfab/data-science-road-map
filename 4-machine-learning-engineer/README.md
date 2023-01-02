@@ -2,12 +2,12 @@
 This job is to build smart products that automate tasks and deploy them. To do this, they care more about prediction accuracy than traditional statistics. They are more computer scientist than statistician. They train/teach machines to independently perform various useful tasks that are typically low impact but high quantity.
 
 ## Library Recommendations
+* MUST READ! - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * Basic - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* Intermediate - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* ML Specific - [Hands On Machine Learning with scikitlearn, Keras, & Tensorflow](https://github.com/ageron/handson-ml3)
-* ML Specific - [Machine Learning with Pytorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
-* ML Specific - [Pattern Recognition and Machine Learning - Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-* ML Specific - [Pattern Recognition and Machine Learning - Repo](https://github.com/ctgk/PRML)
+* ML Specific practical - [Hands On Machine Learning with scikitlearn, Keras, & Tensorflow](https://github.com/ageron/handson-ml3)
+* ML Specific practical - [Machine Learning with Pytorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
+* ML Specific advanced - [Pattern Recognition and Machine Learning - Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* ML Specific advanced - [Pattern Recognition and Machine Learning - Repo](https://github.com/ctgk/PRML)
 
 ## Cheatsheets
 * [Python3 Cheatsheet](https://perso.limsi.fr/pointal/python:memento)
