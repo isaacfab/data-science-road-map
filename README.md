@@ -30,11 +30,11 @@ Data jobs come in three general flavors (but are often called different things i
 ## Table of Contents
 
 1. [Foundations](1-foundations)
-    1. [Library Recommendations](1-foundations#library-recommendations)
-    2. [Data Science Communities](1-foundations#data-science-communities)
-    3. [Public Data](1-foundations#public-data)
+    1. [Library Recommendations](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#library-recommendations)
+    2. [Data Science Communities](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#data-science-communities)
+    3. [Public Data](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#public-data)
     4. [Resume Tools](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#resume-tools)
-    5. [Interview Prep](1-foundations#interview-prep)
+    5. [Interview Prep](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#interview-prep)
 2. [Data Analyst](2-data-analyst)
 3. [General Data Scientist](3-general-data-scientist)
 4. [Machine Learning Engineer](4-machine-learning-engineer)
