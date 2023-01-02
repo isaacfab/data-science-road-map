@@ -7,11 +7,14 @@
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
     <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" target="_blank" alt="Open Source">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
-    <a href="https://www.linkedin.com/in/isaacfaber/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="follow on LinkedIn"></a>
 </p>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/isaacfaber/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="follow on LinkedIn">
+    </a>
+</p>
 ### A prioritized list of **core skills**, **reading material**, **personal portfolio projects** and **practice assignments** every new data scientist should have.
 
 This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
