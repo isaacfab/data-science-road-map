@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="road-map-viz/logos.png"
-        height="200">
+    <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" target="_blank" alt="Course">
+        <img src="road-map-viz/logos.png"
+            height="200">
+    </a>
 </p>
 <p align="center">
     <a href="https://github.com/isaacfab/data-science-road-map" target="_blank" alt="Contributors">
