@@ -18,7 +18,11 @@
 * [Probability for Data Science](https://probability4datascience.com/)
 
 ## R Resources
+* [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/)
 * [R Markdown Official Site](https://rmarkdown.rstudio.com/)
+* [Tidyverse](https://www.tidyverse.org/)
+* [Posit (was RStudio)](https://posit.co/)
+* [Quarto - Document publishing](https://quarto.org/)
 * [Blogdown Official Site](https://bookdown.org/yihui/blogdown/)
 * [EDA Example from Kaggle - R](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda)
 * [ggplot2 and base R plot gallery](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)

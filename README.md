@@ -30,6 +30,11 @@ Data jobs come in three general flavors (but are often called different things i
 ## Table of Contents
 
 1. [Foundations](1-foundations)
+    [a. Library Recommendations](1-foundations#library-recommendations)
+    [b. Data Science Communities](1-foundations#data-science-communities)
+    [c. Public Data](1-foundations#public-data)
+    [d. Resume Tools](1-foundations#resume-tools)
+    [e. Interview Prep](1-foundations#intrview-prep)
 2. [Data Analyst](2-data-analyst)
 3. [General Data Scientist](3-general-data-scientist)
 4. [Machine Learning Engineer](4-machine-learning-engineer)
