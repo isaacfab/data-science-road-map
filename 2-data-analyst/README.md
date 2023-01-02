@@ -1,4 +1,5 @@
 # Data Analyst Resources
+The gate keeper of the business data. They answer situational awareness type questions; what is happening? What are our KPIs? What is the historical trend for sales in region x?
 
 ## Library Recommendations
 * [MS Excel Bible 365](https://www.wiley.com/en-us/Microsoft+Excel+365+Bible-p-9781119835103)

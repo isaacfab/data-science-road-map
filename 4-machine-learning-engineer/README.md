@@ -1,4 +1,5 @@
 # Machine Learning Engineer
+This job is to build smart products that automate tasks and deploy them. To do this, they care more about prediction accuracy than traditional statistics. They are more computer scientist than statistician. They train/teach machines to independently perform various useful tasks that are typically low impact but high quantity.
 
 ## Library Recommendations
 * Basic - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -11,6 +12,9 @@
 ## Cheatsheets
 * [Python3 Cheatsheet](https://perso.limsi.fr/pointal/python:memento)
 * [Stanford - ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+* [Numpy](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
+* [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Matplotlib](https://matplotlib.org/cheatsheets/)
 
 ## Python
 * [Hands On Machine Learning](https://github.com/ageron/handson-ml2)
@@ -27,9 +31,11 @@
 ## Deployment
 * [Command Line - Bash Manual](https://www.gnu.org/software/bash/manual/)
 * [Docker](https://www.docker.com/)
+* [AWS - ML](https://aws.amazon.com/machine-learning/)
 
 ### Deep Learning
-* Start here  - [Fast.AI](https://www.fast.ai/)
+* Start here to build ML products fast - [Fast.AI](https://www.fast.ai/)
+* Or start here to understand concepts at a detailed level :) [Andrew Ng's ML and Deeplearning Courses](https://www.deeplearning.ai/courses/)
 * [Intro to Deep Learning - Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Pytorch Image Models](https://github.com/rwightman/pytorch-image-models)
 * [Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)

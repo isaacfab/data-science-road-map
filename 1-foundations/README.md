@@ -12,6 +12,7 @@
 ## Data Science Communities
 * [Kaggle](https://www.kaggle.com/)
 * [Hugging Face](https://huggingface.co/)
+* [Reddit - Data Science sub](https://www.reddit.com/r/datascience/)
 
 ## Public Data
 * [Kaggle Datasets](https://www.kaggle.com/)
@@ -24,6 +25,7 @@
 
 ## Resume Tools
 * [FlowCV Free Resume Builder](https://flowcv.io/)
+* [Resumake](https://resumake.io/)
 
 ## Interview Prep
 * [Leetcode](https://leetcode.com/)

@@ -22,31 +22,50 @@ This repo is a companion site for the course [2023 CORE: Data Science and Machin
     
 </p>
 
-The goal here is very ambitious; to be the only site you need on your learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. The goal of this road map is to get you started (or re-directed) on your journey the right way. Everything from original content to linked resources has been vetted through experience and practice. 
+The goal here is very ambitious; to be the only reference site you need on your inital learning journey as a data scientist. Getting started in **data science** is hard. There is an overwhelming number of resources and suggestions. Many people give up!
+
+The goal of this road map is to get you started (or re-directed) on your journey the right way with NO knowledge gaps. Everything from original content to linked resources has been vetted through experience and practice. 
 
 Data jobs come in three general flavors (but are often called different things in practice); Data Analyst, General Data Scientist, and Machine Learning Engineer. The skills, course, and resources are divided into these categories for ease of reference.
 
-
 ## Table of Contents
 
-1. [Foundations](1-foundations)
+1. [START LEARNING HERE - Combined Core Skills List](#combined-core-skills-list)
+2. [Certification Checklist](#certification-checklist)
+3. [Portfolio Project Checklist](#portfolio-project-checklist)
+4. [Foundations](1-foundations)
     1. [Library Recommendations](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#library-recommendations)
     2. [Data Science Communities](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#data-science-communities)
     3. [Public Data](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#public-data)
     4. [Resume Tools](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#resume-tools)
     5. [Interview Prep](https://github.com/isaacfab/data-science-road-map/tree/main/1-foundations#interview-prep)
-2. [Data Analyst](2-data-analyst)
-3. [General Data Scientist](3-general-data-scientist)
-4. [Machine Learning Engineer](4-machine-learning-engineer)
-5. [Combined Core Skills List](#combined-core-skills-list)
-6. [Certification Checklist](#certification-checklist)
-7. [Portfolio Project Checklist](#portfolio-project-checklist)
+5. [Data Analyst](2-data-analyst)
+    1. [Library Recommendations](https://github.com/isaacfab/data-science-road-map/tree/main/2-data-analyst#library-recommendations)
+    2. [Cheatsheets](https://github.com/isaacfab/data-science-road-map/tree/main/2-data-analyst#cheatsheets)
+    3. [Spreadsheets](https://github.com/isaacfab/data-science-road-map/tree/main/2-data-analyst#spreadsheets)
+    4. [SQL](https://github.com/isaacfab/data-science-road-map/tree/main/2-data-analyst#sql)
+    5. [Business Intelligence](https://github.com/isaacfab/data-science-road-map/tree/main/2-data-analyst#business-intelligence)
+6. [General Data Scientist](3-general-data-scientist)
+    1. [Library Recommendations](https://github.com/isaacfab/data-science-road-map/tree/main/3-general-data-scientist#library-recommendations)
+    2. [Cheatsheets](https://github.com/isaacfab/data-science-road-map/tree/main/3-general-data-scientist#cheatsheets)
+    3. [Probability and Statistics](https://github.com/isaacfab/data-science-road-map/tree/main/3-general-data-scientist#lprobability-and-statistics)
+    4. [R Resources](https://github.com/isaacfab/data-science-road-map/tree/main/3-general-data-scientist#r-resources)
+    5. [web-development](https://github.com/isaacfab/data-science-road-map/tree/main/3-general-data-scientist#web-development)
+7. [Machine Learning Engineer](4-machine-learning-engineer)
+    1. [Library Recommendations](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#library-recommendations)
+    2. [Cheatsheets](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#cheatsheets)
+    3. [Python Resources](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#python)
+    4. [Math for Machine Learning](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#math)
+    5. [Model Deployment](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#deployment)
+    6. [Deep Learning](https://github.com/isaacfab/data-science-road-map/tree/main/4-machine-learning-engineer#deep-learning)
 8. [Next Steps](#next-steps)
 9. [Latest News](#latest-news)
 
 ---
 
 ## Combined Core Skills List
+Start learning at the top of this list and check each skill until you are done. When done you will have gained all core skills required for data science! 
+
 This table is the set of skills that should be common to every data scientist. There are many things excluded that become important as individuals specialize. This list represents the absolute foundation.
 
 
@@ -68,6 +87,7 @@ This table is the set of skills that should be common to every data scientist. T
 |  	| Use data tables w/ summary stats 	| Spreadsheet 	| Excel 	|
 |  	| Import data from various sources 	| Spreadsheet 	| Excel 	|
 |  	| Lookups and Matches 	| Spreadsheet 	| Excel 	|
+|   | Understand data visualization concepts   | Soft   | Any     |
 |  	| Data visualization 	| Spreadsheet 	| Excel 	|
 |  	| Build a dashboard w/ KPIs 	| Spreadsheet 	| Excel 	|
 |  	| Import data with Power Query 	| Spreadsheet 	| Excel 	|
@@ -100,6 +120,7 @@ This table is the set of skills that should be common to every data scientist. T
 |  	| Build Tableau visualizations for multiple axis 	| Business Intelligence 	| Tableau 	|
 |  	| Understand Tableau formatting 	| Business Intelligence 	| Tableau 	|
 |  	| Build calculations and parameters in Tableau 	| Business Intelligence 	| Tableau 	|
+|   | Understand data story telling concepts   | Soft   | Any     |
 |  	| Build Tableau dashboards and stories 	| Business Intelligence 	| Tableau 	|
 |  	| Share Tableau dashboards and stories (with Tableau Public) 	| Business Intelligence 	| Tableau 	|
 |  	| Understand the difference between Tableau Public and Pro 	| Business Intelligence 	| Tableau 	|
@@ -233,9 +254,38 @@ This table is the set of skills that should be common to every data scientist. T
 |  	| Package an ML model as a microservice 	| Containers 	| Docker 	|
 
 ## [Certification Checklist](#certification-checklist)
+Certifications are a tricky thing. They don't really demonstrate mastery but can make the difference on getting an interview. Here are our minimum recommended certifications. However, if you cannot afford to complete these certifications don't worry! Use the Kaggle courses and LinkedIn Assessments instead and let your project portfolio show your competence!
+
+| Category  | Name  | Link  | Notes     |
+|---    |---    |---    |---    |
+| All   | 2023 CORE: Data Science and Machine Learning  | [Link](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF)     |   |
+| Data Analyst  | LinkedIn Excel    | [Link](https://www.linkedin.com/help/linkedin/answer/a509441/ms-excel-skill-assessment?lang=en)   |   |
+| Data Analyst  | Kaggle SQL    | [Link](https://www.kaggle.com/learn/intro-to-sql)   and [Link](https://www.kaggle.com/learn/advanced-sql)     |   |
+| Data Analyst  | Tableau Data Analyst      | [Link](https://www.tableau.com/learn/training/data-analyst-certification-prep)    |   |
+| General Data Scientist    | LinkedIn R Assessment     | [Link](https://www.linkedin.com/help/linkedin/answer/a510481)     |   |
+| Machine Learning Engineer | Andrew Ng's Intro ML Course | [Link](https://www.coursera.org/specializations/machine-learning-introduction) | |
+| Cloud - ML    | AWS Certified Machine Learning - Specialty    | [Link](https://aws.amazon.com/certification/certified-machine-learning-specialty/)    | Only need 1 of 3  |
+| Cloud - ML    | Google Professional Machine Learning Engineer     | [Link](https://cloud.google.com/certification/machine-learning-engineer)  | Only need 1 of 3  |
+| Cloud - ML    | Azure Data Scientist Associate    | [Link](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)    | Only need 1 of 3  |
 
 ## [Portfolio Project Checklist](#portfolio-project-checklist)
+We recommend you use [GitHub Pages](https://pages.github.com/) and [blogdown](https://github.com/rstudio/blogdown) to host your protfolio as [shown in the course](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). Recommended minimal list of hosted pojects:
+
+1. 2x MS Excel dashboards - hosted as webpages
+2. 1x Tableau Public dashboard
+3. 1x Tableau Public story
+4. 2x EDA of a dataset using RMarkdown - published on Kaggle as well
+5. 2x EDA of a dataset and ML modeel development using Python - published on Kaggle as well
+6. 1x deploy an ML model to the clouding using AWS (or similar) EC2 and a docker container
+
+[The course walks you through](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF) or gives resources needed to complete each of these. Make sure you use novel datasets in your portfolio! If you only use the data from the course it will be very similar to everyone else... 
 
 ## [Next Steps](#next-steps)
+If you have completed the certification checklist, built a resume and hosted project protfolio you are ready to start work! The next step in your learning journy should be to decide which of the job types you want to dive deeper into. Here are the recommended next learning resources for each:
+
+1. [Data Analyst - Work to become one of the Tableau Visionaries](https://www.tableau.com/community/community-leaders/visionaries)
+2. [General Data Scientist - Create and publish an R Package to CRAN](https://r-pkgs.org/)
+3. [Machine Learning Engineer - Complete the fast.ai course 'Deep learning for coders'](https://www.fast.ai/)
+4. [Everyone - compete in a competition on Kaggle](https://www.kaggle.com/competitions)
 
 ## [Latest News]()
