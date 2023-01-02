@@ -7,9 +7,9 @@
         <img src="https://img.shields.io/badge/contributions-welcome-green" /></a>
     <a href="https://github.com/isaacfab/data-science-road-map/blob/main/LICENSE" target="_blank" alt="Open Source">
         <img src="https://img.shields.io/badge/licence-MIT-green" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=isaacfab00" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/isaacfab00?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+    <a href="https://www.linkedin.com/in/isaacfaber/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="follow on LinkedIn"></a>
 </p>
 
 ### A prioritized list of **core skills**, **reading material**, **personal portfolio projects** and **practice assignments** every new data scientist should have.
