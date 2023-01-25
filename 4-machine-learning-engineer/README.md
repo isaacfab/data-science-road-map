@@ -40,6 +40,7 @@ This job is to build smart products that automate tasks and deploy them. To do t
 * [Intro to Deep Learning - Sebastian Raschka](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Pytorch Image Models](https://github.com/rwightman/pytorch-image-models)
 * [Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+* [Google - Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
 * [Confetti AI](https://www.confetti.ai/)
 * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)
 * [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
