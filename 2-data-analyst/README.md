@@ -18,6 +18,7 @@ The gate keeper of the business data. They answer situational awareness type que
 * Start Here - [SQL Tutorial](https://www.sqltutorial.org/)
 * [Select Star SQL](https://selectstarsql.com/)
 * [SQL Murder Mystery](http://mystery.knightlab.com/)
+* [SQL Police Department](https://sqlpd.com/)
 * [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [SQL Interview Questions](https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR)
 * [SQL for Data Science](https://datamovesme.com/2019/12/30/free-sql-for-data-science-course/)

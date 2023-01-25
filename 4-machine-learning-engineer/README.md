@@ -28,6 +28,7 @@ This job is to build smart products that automate tasks and deploy them. To do t
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 * [Matrix Calculus for Deep Learning](https://explained.ai/matrix-calculus/)
 * [Pen and Paper Machine Learning Problems](https://arxiv.org/abs/2206.13446)
+* [Calculus Made Easy](https://www.calculusmadeeasy.org/)
 
 ## Deployment
 * [Command Line - Bash Manual](https://www.gnu.org/software/bash/manual/)
