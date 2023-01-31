@@ -49,6 +49,9 @@ This job is to build smart products that automate tasks and deploy them. To do t
 * [ONNX](https://onnx.ai/index.html)
 * [MIT - Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 
+## Interesting Deep Learning Projects
+* [MusicML - create music from a test prompt](https://google-research.github.io/seanet/musiclm/examples/)
+
 ## Other
 * [Human Learn](https://koaning.github.io/human-learn/)
 * [REGEX](https://regexr.com/)
@@ -71,3 +74,4 @@ This job is to build smart products that automate tasks and deploy them. To do t
 * [AWS ML Courses](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Free Books](https://www.theinsaneapp.com
 * [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
