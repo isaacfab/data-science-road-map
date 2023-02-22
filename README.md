@@ -1,3 +1,7 @@
+[CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
+
+[Roadmap Resource Index](#table-of-contents)
+
 <p align="center">
     <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" target="_blank" alt="Course">
         <img src="road-map-viz/data-science-roadmap.jpg">
@@ -19,7 +23,7 @@
 
 ### A prioritized list of **core skills**, **reading material**, **personal portfolio projects** and **practice assignments** every new data scientist should have.
 
-This repo is a companion site for the course [2023 CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
+This repo is a companion site for the course [CORE: Data Science and Machine Learning](https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF). 
 
 <p align="center">
     <a href="https://www.udemy.com/course/draft/4287096/?referralCode=ADF695AD40B8F269D6BF" target="_blank" alt="Course">
