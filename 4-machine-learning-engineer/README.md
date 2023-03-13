@@ -1,5 +1,5 @@
 # Machine Learning Engineer
-This job is to build smart products that automate tasks and deploy them. To do this, they care more about prediction accuracy than traditional statistics. They are more computer scientist than statistician. They train/teach machines to independently perform various useful tasks that are typically low impact but high quantity.
+This job is to build and deploy smart products that automate tasks. To do this, we care more about prediction accuracy than traditional statistics. This role is more computer scientist than statistician. They train/teach machines to independently perform various useful tasks that are typically low impact but high quantity.
 
 ## Library Recommendations
 * MUST READ! - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
