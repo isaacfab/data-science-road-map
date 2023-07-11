@@ -35,7 +35,7 @@ The goal here is very ambitious; to be the only reference site you need on your 
 
 The goal of this road map is to get you started (or re-directed) on your journey the right way with NO knowledge gaps. Everything from original content to linked resources has been vetted through experience and practice. 
 
-Data jobs come in three general flavors (but are often called different things in practice); Data Analyst, General Data Scientist, and Machine Learning Engineer. The skills, course, and resources are divided into these categories for ease of reference. Pay close attentioin to recommended books to add to you library, several are **must reads.**
+Data jobs come in three general flavors (but are often called different things in practice); Data Analyst, General Data Scientist, and Machine Learning Engineer. The skills, course, and resources are divided into these categories for ease of reference. Pay close attentioin to recommended books to add to your library, several are **must reads.**
 
 ## Table of Contents
 
