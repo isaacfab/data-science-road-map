@@ -293,8 +293,9 @@ We recommend you use [GitHub Pages](https://pages.github.com/) and [blogdown](ht
 If you have completed the certification checklist, built a resume and hosted project protfolio you are ready to start work! The next step in your learning journy should be to decide which of the job types you want to dive deeper into. Here are the recommended next learning resources for each:
 
 1. [Data Analyst - Work to become one of the Tableau Visionaries](https://www.tableau.com/community/community-leaders/visionaries)
-2. [General Data Scientist - Create and publish an R Package to CRAN](https://r-pkgs.org/)
-3. [Machine Learning Engineer - Complete the fast.ai course 'Deep learning for coders'](https://www.fast.ai/)
-4. [Everyone - compete in a competition on Kaggle](https://www.kaggle.com/competitions)
+2. [Data Engineer Roadmap - A complete step-by-step guide](https://www.scaler.com/blog/data-engineer-roadmap/)
+3. [General Data Scientist - Create and publish an R Package to CRAN](https://r-pkgs.org/)
+4. [Machine Learning Engineer - Complete the fast.ai course 'Deep learning for coders'](https://www.fast.ai/)
+5. [Everyone - compete in a competition on Kaggle](https://www.kaggle.com/competitions)
 
 ## [Latest News]()
