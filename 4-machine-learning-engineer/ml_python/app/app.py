@@ -3,6 +3,8 @@ import joblib
 import pandas as pd
 import os
 
+# Load the model at import time so it's available for all requests
+rf = joblib.load('model.pkl')
 app = Flask(__name__)
 
 # Load the trained model once when the application starts. Using an
