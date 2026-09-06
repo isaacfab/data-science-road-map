@@ -25,6 +25,7 @@
 
 ## Resume Tools
 * [FlowCV Free Resume Builder](https://flowcv.io/)
+* [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker (3/day anonymous, 10/day free account); open State of ATS 2026 (738 employers, Workday 37.9%)
 * [Resumake](https://resumake.io/)
 
 ## Interview Prep
