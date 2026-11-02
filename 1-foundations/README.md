@@ -26,6 +26,7 @@
 ## Resume Tools
 * [FlowCV Free Resume Builder](https://flowcv.io/)
 * [Resumake](https://resumake.io/)
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 
 ## Interview Prep
 * [Leetcode](https://leetcode.com/)
